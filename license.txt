@@ -30,6 +30,6 @@ This is the appropriate option if you are creating proprietary applications and 
 not prepared to distribute and share the source code of your application under the 
 GPL v3 license. Please visit http://www.sencha.com/license for more details.
 
---
+---
 
 This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY INTELLECTUAL PROPERTY RIGHTS.  See the GNU General Public License for more details.
